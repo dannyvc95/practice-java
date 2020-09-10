@@ -5,7 +5,7 @@
  * @author Daniel Valle
  */
 
-package files;
+package other;
 
 import java.util.Scanner;
 
