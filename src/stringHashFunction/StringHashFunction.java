@@ -4,7 +4,7 @@
  * @author Daniel Valle
  */
 
-package other;
+package src;
 
 import java.util.*;
 
