@@ -5,7 +5,7 @@
  * @author Daniel Valle
  */
 
-package src.guessNumberGame;
+package src;
 
 import java.util.Scanner;
 

@@ -4,7 +4,7 @@
  * @author Daniel Valle
  */
 
-package src.stringHashFunction;
+package src;
 
 import java.util.*;
 
